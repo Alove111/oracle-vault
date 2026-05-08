@@ -42,11 +42,11 @@ Install as PWA:
 ---
 ## HOW TO DOWNLOAD (PC)
 
-* Download the zip file
-* Extract the file
-* Open the folder 
-* You will see bunch of files 
-* Open the terminal by right clicking
+* Download the ZIP file
+* Extract the ZIP
+* Open the extracted folder
+* Inside the folder: Hold Shift + Right click    empty area
+* Click Open PowerShell window here
 * Then run these commands 👇
 
 ## ⚙️ Setup
