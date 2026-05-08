@@ -40,6 +40,14 @@ Install as PWA:
 * Offline-first design
 
 ---
+## HOW TO DOWNLOAD 
+
+* Download the zip file
+* Extract the file
+* Open the folder 
+* You will see bunch of files 
+* Open the terminal by right clicking
+* Then run these commands 👇
 
 ## ⚙️ Setup
 
