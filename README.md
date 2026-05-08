@@ -40,7 +40,7 @@ Install as PWA:
 * Offline-first design
 
 ---
-## HOW TO DOWNLOAD 
+## HOW TO DOWNLOAD (PC)
 
 * Download the zip file
 * Extract the file
@@ -64,6 +64,12 @@ npm run dev
 npm run build
 npm run dist
 ```
+
+---
+## HOW TO DOWNLOAD (MOBILE)
+
+Download link - https://oracle-vault.vercel.app/
+
 
 ---
 
