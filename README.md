@@ -71,7 +71,8 @@ npm run dist
 Download link - https://oracle-vault.vercel.app/
 
 * Click on the 3 dots
-* Add to HOME SCREEEN 
+* Add to HOME SCREEEN
+* Install 
 
 
 ---
